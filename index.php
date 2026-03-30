@@ -1,3 +1,5 @@
 <?php
-echo 'gitれんしゅう'
+echo 'gitれんしゅう';
+echo 'git add .';
+echo 'git commit';
 ?>
