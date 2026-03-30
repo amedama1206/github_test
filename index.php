@@ -7,4 +7,5 @@ echo 'git commit -v';
 echo 'git rm';
 echo 'git log';
 echo 'git status';
+echo 'git diff';
 ?>
